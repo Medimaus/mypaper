@@ -8,11 +8,11 @@ A paper on my results on software carpentreology.
 ## Experimental setup
 ### Previous Experiments
 ### We have changed
--item 1
--item2
--item3
+- item 1
+- item2
+- item3
 ### Conclusions
--conclusion1
--conclusion2
--conclusion3
+- conclusion1
+- conclusion2
+- conclusion3
 
